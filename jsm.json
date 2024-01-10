@@ -1,5 +1,5 @@
 {
-"spider":"./jar/fan.txt;md5;5aee1ff968a3dc5cbbf225399e9441e9",
+"spider":"https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06;md5;5aee1ff968a3dc5cbbf225399e9441e9",
 "lives":[{"name":"live","boot":true,"type":0,"url":"./tvboxtv.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}],
 "wallpaper":"https://tool.weetai.cn/api",
 "sites":[

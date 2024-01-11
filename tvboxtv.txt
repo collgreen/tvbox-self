@@ -1619,5 +1619,8 @@ CCTV17,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8
 陕西卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225821/index.m3u8
 农林卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226229/index.m3u8
 山东教育卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226238/index.m3u8
-
+🌹 猎狼TV源 直播 🌹,#genre#
+官网:LLTV8.top,http://103.108.67.142:997/app/img/%E7%8C%8E%E7%8B%BC%E5%BD%B1%E8%A7%86_3.mp4
+QQ群:632539127,http://103.108.67.142:997/app/img/%E7%8C%8E%E7%8B%BC%E5%BD%B1%E8%A7%86_3.mp4
+QQ频道:LielangTV8,http://103.108.67.142:997/app/img/%E7%8C%8E%E7%8B%BC%E5%BD%B1%E8%A7%86_3.mp4
 

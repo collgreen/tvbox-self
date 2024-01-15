@@ -1,6 +1,5 @@
 央视频道,#genre#
-CCTV1,http://live.aikan.miguvideo.com/wd_r2/cctv/cctv1hd/1200/index.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=103.108.67.142&timestamp=20240112011957&encrypt=63145673a490efdfff4b5e8e5dfe56ce&ContentId=265183188&timezone=UTC
-CCTV1,http://live.aikan.miguvideo.com/wd_r2/cctv/cctv1hd/2500/index.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=103.108.67.142&timestamp=20240112012204&encrypt=760af75f560e1338f4b374c16eee0333&ContentId=265183188&timezone=UTC
+CCTV1,http://live.aikan.miguvideo.com/wd_r2/cctv/cctv1hd/2500/index.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=103.116.247.170&timestamp=20240115062621&encrypt=d46f7ec4583aed76a623722e9b9f5282&ContentId=265183188&timezone=UTC
 CCTV1,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8
 CCTV1,http://113.236.24.52:9901/tsfile/live/1156_1.m3u8?key=txiptv
 CCTV1,http://119.54.0.182:58000/hls/1/index.m3u8
@@ -10,7 +9,7 @@ CCTV1,http://119.54.3.113:58000/hls/1/index.m3u8
 CCTV1,http://119.54.3.183:58000/hls/1/index.m3u8
 CCTV1,http://119.54.3.249:58000/hls/1/index.m3u8
 
-CCTV2,http://live.aikan.miguvideo.com/wd_r2/cctv/cctv2hd/3000/index.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=103.108.67.142&timestamp=20240112015836&encrypt=2435061f5d5d6d787155685bb8a6575c&ContentId=265667329&timezone=UTC
+CCTV2,http://live.aikan.miguvideo.com/wd_r2/cctv/cctv2hd/3000/index.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=103.116.247.170&timestamp=20240115062658&encrypt=61c9bff01fdf9b8a20a7b3820033c8de&ContentId=265667329&timezone=UTC
 CCTV2,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/1.m3u8
 CCTV2,http://113.236.24.52:9901/tsfile/live/1157_1.m3u8?key=txiptv
 CCTV2,http://119.54.2.21:58000/hls/2/index.m3u8
@@ -21,7 +20,7 @@ CCTV2,http://119.54.3.113:58000/hls/2/index.m3u8
 CCTV2,http://119.54.3.183:58000/hls/2/index.m3u8
 CCTV2,http://119.54.3.249:58000/hls/2/index.m3u8
 
-CCTV3,http://live.aikan.miguvideo.com/wd_r2/ocn/cctv3hd/3000/index.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=103.108.67.142&timestamp=20240112022008&encrypt=33db5ce715ddb985a05ee986063f6c5d&ContentId=265667206&timezone=UTC
+CCTV3,http://live.aikan.miguvideo.com/wd_r2/ocn/cctv3hd/3000/index.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=103.116.247.170&timestamp=20240115062719&encrypt=d189174d4c900ce2b83e16d879eda748&ContentId=265667206&timezone=UTC
 CCTV3,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226397/1.m3u8
 CCTV3,http://113.236.24.52:9901/tsfile/live/1002_1.m3u8?key=txiptv
 CCTV3,http://113.236.91.81:9901/tsfile/live/1002_1.m3u8?key=txiptv
@@ -35,8 +34,7 @@ CCTV3,http://119.54.3.113:58000/hls/3/index.m3u8
 CCTV3,http://119.54.3.183:58000/hls/3/index.m3u8
 CCTV3,http://119.54.3.249:58000/hls/3/index.m3u8
 
-CCTV4,http://live.aikan.miguvideo.com/wd_r2/cctv/cctv4hd/3000/index.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=103.108.67.142&timestamp=20240112022407&encrypt=875544b1ff78610345fd3e8be481852e&ContentId=265667639&timezone=UTC
-CCTV4,http://live.aikan.miguvideo.com/migu/kailu/20200324/cctv4ouhd/57/index.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=103.108.67.142&timestamp=20240112022428&encrypt=71e14a0d070993de566926d1558d2be8&ContentId=265667313&timezone=UTC
+CCTV4,http://live.aikan.miguvideo.com/wd_r2/cctv/cctv4hd/3000/index.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=103.116.247.170&timestamp=20240115062740&encrypt=ff05ccba4841610d693a0dff5fa2effb&ContentId=265667639&timezone=UTC
 CCTV4,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226191/1.m3u8
 CCTV4,http://113.236.24.52:9901/tsfile/live/1158_1.m3u8?key=txiptv
 CCTV4,http://221.226.218.162:9901/tsfile/live/65435_1.m3u8?key=txiptv
@@ -48,8 +46,7 @@ CCTV4,http://119.54.3.113:58000/hls/4/index.m3u8
 CCTV4,http://119.54.3.183:58000/hls/4/index.m3u8
 CCTV4,http://119.54.3.249:58000/hls/4/index.m3u8
 
-CCTV5,http://live.aikan.miguvideo.com/wd_r2/cctv/cctv5hdnew/2500/index.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=103.108.67.142&timestamp=20240112022648&encrypt=cb2801cf2372fa4ab5b59033368cc655&ContentId=265667565&timezone=UTC
-http://live.aikan.miguvideo.com/wd_r2/cctv/cctv5hdnew/1200/index.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=103.108.67.142&timestamp=20240112022700&encrypt=8fa7a8f6ee45d3e96a5708aa5b5d14fa&ContentId=265667565&timezone=UTC
+CCTV5,http://live.aikan.miguvideo.com/wd_r2/cctv/cctv5hdnew/2500/index.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=103.116.247.170&timestamp=20240115062811&encrypt=1f617bfebc4b501f3ca7978af4c08395&ContentId=265667565&timezone=UTC
 CCTV5,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226395/1.m3u8
 CCTV5,http://113.236.24.52:9901/tsfile/live/1004_1.m3u8?key=txiptv
 CCTV5,http://180.158.145.181:9901/tsfile/live/0005_1.m3u8?key=txiptv
@@ -61,12 +58,12 @@ CCTV5,http://119.54.3.113:58000/hls/5/index.m3u8
 CCTV5,http://119.54.3.183:58000/hls/5/index.m3u8
 CCTV5,http://119.54.3.249:58000/hls/5/index.m3u8
 
-CCTV5+,http://live.aikan.miguvideo.com/wd_r2/cctv/cctv5plusnew/2500/index.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=103.108.67.142&timestamp=20240112023200&encrypt=522a43bca9fe043ef1f614ca5dc6e3c5&ContentId=265106763&timezone=UTC
-CCTV5+http://live.aikan.miguvideo.com/wd_r2/cctv/cctv5plusnew/1200/index.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=103.108.67.142&timestamp=20240112023221&encrypt=2c63265658476d9aca62014e257dd7d2&ContentId=265106763&timezone=UTC
+CCTV5+,http://live.aikan.miguvideo.com/wd_r2/cctv/cctv5plusnew/1200/index.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=103.116.247.170&timestamp=20240115062859&encrypt=b3468142167516215392390fceb60add&ContentId=265106763&timezone=UTC
+CCTV5+http://live.aikan.miguvideo.com/wd_r2/cctv/cctv5plusnew/1200/index.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=103.116.247.170&timestamp=20240112023221&encrypt=2c63265658476d9aca62014e257dd7d2&ContentId=265106763&timezone=UTC
 CCTV5+http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225761/1.m3u8
 CCTV5+http://113.236.24.52:9901/tsfile/live/1015_1.m3u8?key=txiptv
 
-CCTV6,http://live.aikan.miguvideo.com/wd_r2/ocn/cctv6hd/3000/index.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=103.108.67.142&timestamp=20240112023619&encrypt=f923510e3003e5160261c889695718d0&ContentId=265667482&timezone=UTC
+CCTV6,http://live.aikan.miguvideo.com/wd_r2/ocn/cctv6hd/3000/index.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=103.116.247.170&timestamp=20240115062915&encrypt=7b2de65dc3da2719e360d90387ec6d05&ContentId=265667482&timezone=UTC
 CCTV6,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226393/1.m3u8
 CCTV6,http://113.236.24.52:9901/tsfile/live/1005_1.m3u8?key=txiptv
 CCTV6,http://180.158.145.181:9901/tsfile/live/0006_1.m3u8?key=txiptv
@@ -78,7 +75,7 @@ CCTV6,http://119.54.3.113:58000/hls/6/index.m3u8
 CCTV6,http://119.54.3.183:58000/hls/6/index.m3u8
 CCTV6,http://119.54.3.249:58000/hls/6/index.m3u8
 
-CCTV7,http://live.aikan.miguvideo.com/migu/kailu/20200324/cctv7hd/57/index.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=103.108.67.142&timestamp=20240112025943&encrypt=158d0d5835d3ad757a5ad3e8d37bc629&ContentId=265667268&timezone=UTC
+CCTV7,http://live.aikan.miguvideo.com/migu/kailu/20200324/cctv7hd/57/index.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=103.116.247.170&timestamp=20240115062932&encrypt=044b936f41b7818903a18adf06622568&ContentId=265667268&timezone=UTC
 CCTV7,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226192/1.m3u8
 CCTV7,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225778/1.m3u8
 CCTV7,http://113.236.24.52:9901/tsfile/live/1159_1.m3u8?key=txiptv
@@ -91,7 +88,7 @@ CCTV7,http://119.54.3.113:58000/hls/7/index.m3u8
 CCTV7,http://119.54.3.183:58000/hls/7/index.m3u8
 CCTV7,http://119.54.3.249:58000/hls/7/index.m3u8
 
-CCTV8,http://live.aikan.miguvideo.com/wd_r2/ocn/cctv8hd/3000/index.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=103.108.67.142&timestamp=20240112030253&encrypt=5ab424d14fca7f745093cfa26db472ac&ContentId=265667466&timezone=UTC
+CCTV8,http://live.aikan.miguvideo.com/wd_r2/ocn/cctv8hd/3000/index.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=103.116.247.170&timestamp=20240112030253&encrypt=5ab424d14fca7f745093cfa26db472ac&ContentId=265667466&timezone=UTC
 CCTV8,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226391/1.m3u8
 CCTV8,http://113.236.24.52:9901/tsfile/live/1007_1.m3u8?key=txiptv
 CCTV8,http://221.226.218.162:9901/tsfile/live/65439_1.m3u8?key=txiptv
@@ -104,7 +101,7 @@ CCTV8,http://119.54.3.113:58000/hls/8/index.m3u8
 CCTV8,http://119.54.3.183:58000/hls/8/index.m3u8
 CCTV8,http://119.54.3.249:58000/hls/8/index.m3u8
 
-CCTV9,http://live.aikan.miguvideo.com/migu/kailu/20200324/cctv9hd/57/index.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=103.108.67.142&timestamp=20240112030522&encrypt=952b791fbd0bb5df42c0cb6d8dccad51&ContentId=265667202&timezone=UTC
+CCTV9,http://live.aikan.miguvideo.com/migu/kailu/20200324/cctv9hd/57/index.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=103.116.247.170&timestamp=20240112030522&encrypt=952b791fbd0bb5df42c0cb6d8dccad51&ContentId=265667202&timezone=UTC
 CCTV9,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226197/1.m3u8
 CCTV9,http://113.236.24.52:9901/tsfile/live/1160_1.m3u8?key=txiptv
 CCTV9,http://119.54.2.21:58000/hls/9/index.m3u8
@@ -115,7 +112,7 @@ CCTV9,http://119.54.3.113:58000/hls/9/index.m3u8
 CCTV9,http://119.54.3.183:58000/hls/9/index.m3u8
 CCTV9,http://119.54.3.249:58000/hls/9/index.m3u8
 
-CCTV10,http://live.aikan.miguvideo.com/wd_r2/ocn/cctv10hd/3000/index.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=103.108.67.142&timestamp=20240112030719&encrypt=697894fcef54fa9773fd21914d83815b&ContentId=265667631&timezone=UTC
+CCTV10,http://live.aikan.miguvideo.com/wd_r2/ocn/cctv10hd/3000/index.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=103.116.247.170&timestamp=20240112030719&encrypt=697894fcef54fa9773fd21914d83815b&ContentId=265667631&timezone=UTC
 CCTV10,http://113.236.24.52:9901/tsfile/live/1161_1.m3u8?key=txiptv
 CCTV10,http://221.226.218.162:9901/tsfile/live/65441_1.m3u8?key=txiptv
 CCTV10,http://119.54.2.21:58000/hls/10/index.m3u8
@@ -126,7 +123,7 @@ CCTV10,http://119.54.3.113:58000/hls/10/index.m3u8
 CCTV10,http://119.54.3.183:58000/hls/10/index.m3u8
 CCTV10,http://119.54.3.249:58000/hls/10/index.m3u8
 
-CCTV11,http://live.aikan.miguvideo.com/migu/kailu/cctv11hd/57/20200103/index.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=103.108.67.142&timestamp=20240112031013&encrypt=37a33f3c1a0ae85a3031e017deb30d47&ContentId=265667429&timezone=UTC
+CCTV11,http://live.aikan.miguvideo.com/migu/kailu/cctv11hd/57/20200103/index.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=103.116.247.170&timestamp=20240112031013&encrypt=37a33f3c1a0ae85a3031e017deb30d47&ContentId=265667429&timezone=UTC
 CCTV11,http://113.236.24.52:9901/tsfile/live/1010_1.m3u8?key=txiptv
 CCTV11,http://119.54.2.21:58000/hls/11/index.m3u8
 CCTV11,http://119.54.0.182:58000/hls/11/index.m3u8
@@ -136,7 +133,7 @@ CCTV11,http://119.54.3.113:58000/hls/11/index.m3u8
 CCTV11,http://119.54.3.183:58000/hls/11/index.m3u8
 CCTV11,http://119.54.3.249:58000/hls/11/index.m3u8
 
-CCTV12,http://live.aikan.miguvideo.com/migu/kailu/20200324/cctv12hd/57/index.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=103.108.67.142&timestamp=20240112031136&encrypt=20d588b23b06956afb7761e69b6f6fc0&ContentId=265667607&timezone=UTC
+CCTV12,http://live.aikan.miguvideo.com/migu/kailu/20200324/cctv12hd/57/index.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=103.116.247.170&timestamp=20240112031136&encrypt=20d588b23b06956afb7761e69b6f6fc0&ContentId=265667607&timezone=UTC
 CCTV12,http://113.236.24.52:9901/tsfile/live/1162_1.m3u8?key=txiptv
 CCTV12,http://119.54.2.21:58000/hls/12/index.m3u8
 CCTV12,http://119.54.0.182:58000/hls/12/index.m3u8
@@ -146,7 +143,7 @@ CCTV12,http://119.54.3.113:58000/hls/12/index.m3u8
 CCTV12,http://119.54.3.183:58000/hls/12/index.m3u8
 CCTV12,http://119.54.3.249:58000/hls/12/index.m3u8
 
-CCTV13,http://live.aikan.miguvideo.com/envivo_x/2018/SD/cctv13/2000/index.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=103.108.67.142&timestamp=20240112031435&encrypt=38bca791502780eaadf554d48305beb2&ContentId=265667474&timezone=UTC
+CCTV13,http://live.aikan.miguvideo.com/envivo_x/2018/SD/cctv13/2000/index.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=103.116.247.170&timestamp=20240112031435&encrypt=38bca791502780eaadf554d48305beb2&ContentId=265667474&timezone=UTC
 CCTV13,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8
 CCTV13,http://113.236.24.52:9901/tsfile/live/1012_1.m3u8?key=txiptv
 CCTV13,http://119.54.2.21:58000/hls/13/index.m3u8
@@ -204,7 +201,7 @@ CCTV17,http://36.129.58.53:8008/paiptv/CCTV17-HD.m3u8
 北京卫视,http://119.54.3.183:58000/hls/30/index.m3u8
 北京卫视,http://119.54.3.249:58000/hls/30/index.m3u8
 
-湖南卫视,http://live.aikan.miguvideo.com/wd-hunanhd-2500/index.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=103.108.67.142&timestamp=20240112032820&encrypt=1c02a3c78662bc7d64187fd49d67dded&ContentId=265667721&timezone=UTC
+湖南卫视,http://live.aikan.miguvideo.com/wd-hunanhd-2500/index.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=103.116.247.170&timestamp=20240112032820&encrypt=1c02a3c78662bc7d64187fd49d67dded&ContentId=265667721&timezone=UTC
 湖南卫视,http://113.236.24.52:9901/tsfile/live/1143_1.m3u8?key=txiptv
 湖南卫视,http://119.54.0.182:58000/hls/34/index.m3u8
 湖南卫视,http://119.54.1.40:58000/hls/34/index.m3u8
@@ -213,8 +210,8 @@ CCTV17,http://36.129.58.53:8008/paiptv/CCTV17-HD.m3u8
 湖南卫视,http://119.54.3.183:58000/hls/34/index.m3u8
 湖南卫视,http://119.54.3.249:58000/hls/34/index.m3u8
 
-东方卫视,http://live.aikan.miguvideo.com/wd_r4/dfl/dongfangwshd/1200/index.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=103.108.67.142&timestamp=20240112033101&encrypt=230c02d396acc406558f09b0107169c1&ContentId=264104266&timezone=UTC
-东方卫视,http://live.aikan.miguvideo.com/wd_r4/dfl/dongfangwshd/3000/index.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=103.108.67.142&timestamp=20240112033503&encrypt=932eb759e71a2faa7b12dfac67d383d8&ContentId=264104266&timezone=UTC
+东方卫视,http://live.aikan.miguvideo.com/wd_r4/dfl/dongfangwshd/1200/index.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=103.116.247.170&timestamp=20240112033101&encrypt=230c02d396acc406558f09b0107169c1&ContentId=264104266&timezone=UTC
+东方卫视,http://live.aikan.miguvideo.com/wd_r4/dfl/dongfangwshd/3000/index.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=103.116.247.170&timestamp=20240112033503&encrypt=932eb759e71a2faa7b12dfac67d383d8&ContentId=264104266&timezone=UTC
 东方卫视,http://119.54.0.182:58000/hls/31/index.m3u8
 东方卫视,http://119.54.1.40:58000/hls/31/index.m3u8
 东方卫视,http://119.54.1.255:58000/hls/31/index.m3u8
@@ -223,7 +220,7 @@ CCTV17,http://36.129.58.53:8008/paiptv/CCTV17-HD.m3u8
 东方卫视,http://119.54.3.249:58000/hls/31/index.m3u8
 
 江苏卫视,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226200/1.m3u8
-江苏卫视,http://live.aikan.miguvideo.com/wd_r2/cctv/jiangsuhd/2500/index.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=103.108.67.142&timestamp=20240112034213&encrypt=f825cff42e9979c50716ba04e869d6d1&ContentId=264104188&timezone=UTC
+江苏卫视,http://live.aikan.miguvideo.com/wd_r2/cctv/jiangsuhd/2500/index.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=103.116.247.170&timestamp=20240112034213&encrypt=f825cff42e9979c50716ba04e869d6d1&ContentId=264104188&timezone=UTC
 江苏卫视,http://119.54.0.182:58000/hls/32/index.m3u8
 江苏卫视,http://119.54.1.40:58000/hls/32/index.m3u8
 江苏卫视,http://119.54.1.255:58000/hls/32/index.m3u8

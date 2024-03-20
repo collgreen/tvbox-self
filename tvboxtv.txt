@@ -1,7 +1,7 @@
 央视频道,#genre#
-CCTV1,http://61.170.77.230/liveali-tpgq.cctv.cn/live/cctv1.m3u8
-CCTV1,http://49.71.78.122/hlslive-tx-cdn.ysp.cctv.cn/001/ysp/2022576803.m3u8
-CCTV1,http://42.54.72.5:9901/tsfile/live/1156_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV1,http://1.62.64.76/1.v.smtcdns.net/tlive-test-cdn.ysp.cctv.cn/ysp/2022576803.m3u8
+CCTV1,http://107.167.5.187:33985/
+CCTV1,http://113.236.16.144:9901/tsfile/live/1156_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1,http://113.236.22.132:9901/tsfile/live/1156_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1,http://113.12.72.152:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1,http://36.49.58.110:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -208,10 +208,10 @@ CCTV11,http://117.9.171.67:4567/udp/225.1.2.192:5002
 
 
 地方频道,#genre#
-北京卫视,http://49.71.78.122/hlslive-tx-cdn.ysp.cctv.cn/001/ysp/2000272103.m3u8
-北京卫视,http://36.249.165.144:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
-北京卫视,http://183.0.200.149:9901/tsfile/live/1043_1.m3u8?key=txiptv&playlive=1&authid=0
-北京卫视,http://221.226.218.162:9901/tsfile/live/65463_1.m3u8?key=txiptv&playlive=1&authid=0
+北京卫视,http://1.62.64.76/1.v.smtcdns.net/tlive-test-cdn.ysp.cctv.cn/ysp/2000272103.m3u8
+北京卫视,http://183.0.200.151:9901/tsfile/live/1043_1.m3u8?key=txiptv&playlive=1&authid=0
+北京卫视,http://113.236.16.144:9901/tsfile/live/1151_1.m3u8?key=txiptv&playlive=1&authid=0
+北京卫视,http://119.98.248.159:5555/rtp/239.254.96.141:8920
 北京卫视,http://36.249.150.135:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
 北京卫视,http://113.12.72.152:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
 北京卫视,http://119.98.163.215:4022/rtp/239.254.96.141:8920

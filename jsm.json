@@ -8,7 +8,11 @@
 {"key":"drpy_js_豆瓣","name":"搜索 | 豆瓣[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/drpy.js","searchable":1,"quickSearch":0,"changeable":0},
 {"key":"drpy_js_TVB云播","name":"影视 | TVB云播[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./FTY/TVB云播.js"},
 {"key":"drpy_js_网飞.TV","name":"影视 | 网飞.TV[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/网飞.TV.js"},
-
+ {"key":"T4-duanju5","name":"短剧屋","type":4,"api":"https://catbox.n13.club/duanju5.php","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":true},
+ {"key":"追追短剧","name":"🌈追追┃短剧","type":1,"api":"https://zzdj.cc/api.php/provide/vod","searchable":1,"changeable":0,"style":{"type":"rect","ratio":1.433},"timeout":10},
+{"key":"世界短剧","name":"🌏世界┃短剧","type":3,"api":"csp_AppYsV2","searchable":1,"changeable":0,"style":{"type":"rect","ratio":1.433},"timeout":10,"ext":"http://106.52.241.21:83/api.php/app/"},
+{"key":"种子短剧","name":"🌷种子┃短剧","type":3,"api":"csp_AppYsV2","searchable":1,"changeable":0,"style":{"type":"rect","ratio":1.433},"timeout":10,"ext":"http://122.228.84.103:6822/api.php/app/"},
+{"key":"榜一短剧","name":"短剧","type":3,"api":"csp_XBPQ","jar":"https://mirror.ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/jar/XBPQ.jar;md5;518d66b6cd98f169579f71ec43032048","ext":{"分类":"逆袭短剧$1#甜宠短剧$3#虐恋短剧$5#穿越短剧$7#重生短剧$9#都市短剧$11#现代言情短剧$13#古装短剧$15#古代言情短剧$17#战神短剧$19#神医短剧$21#神豪短剧$23#超能短剧$25#萌宝短剧$27#复仇短剧$29#脑洞短剧$31#赘婿短剧$33#玄幻短剧$35#热血短剧$37#其他短剧$39","分类url":"https://duanjuu.com/vodshow/{cateId}--------{catePg}---.html;;m"}},
 {"key":"玩偶哥哥","name":"👽玩偶哥哥┃4K弹幕不断流","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://wogg.xyz/$$$弹"},
 {"key":"YGP","name":"🚀叨观荐影┃速递","type":3,"api":"csp_YGP","searchable":0,"quickSearch":0,"changeable":0},
 {"key":"csp_Nmys","name":"🌾农民┃直连","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"changeable":1,"ext":"./FTY/nmys.json"}, 
